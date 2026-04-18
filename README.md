@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Nilesh Gupta
 
-<!--
-**nileshg67/NIleshg67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year BSc Computer Science Student  
+📍 Mumbai, India  
+💡 Passionate about technology & community service  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning: Python, Web Development
+- 👨‍💻 Interested in: Software Development & AI
+- 🤝 NSS Volunteer & Digital Head
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming: Python, C
+- Web: HTML, CSS
+- Tools: Git, GitHub
+
+## 📌 Projects
+- 🔹 Resource Management System
+- 🔹 LED Blink Pattern using Raspberry Pi
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Connect with Me
+- Email: guptanilesh028@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nilesh-gupta-691042389/
+- Twitter: https://x.com/NILESHGUPT51155
+- Instagram : https://www.instagram.com/just_nilesh098/
+
+⭐ Thats All
