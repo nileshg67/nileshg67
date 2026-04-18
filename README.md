@@ -19,9 +19,7 @@
 - 🔹 LED Blink Pattern using Raspberry Pi
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
+![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - Email: guptanilesh028@gmail.com
