@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nilesh Gupta
 
-🎓 2nd Year BSc Computer Science Student  
+🎓 3rd Year BSc Computer Science Student  
 📍 Mumbai, India  
 💡 Passionate about technology & community service  
 
