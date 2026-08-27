@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nilesh Gupta 
 
 ## 🚀 About Me
-- Ha passionate third-year Computer Science undergraduate at Thakur Shyamnarayan Degree College, Mumbai, and an active tech enthusiast who loves building meaningful web and mobile applications.
+- A passionate third-year Computer Science undergraduate at Thakur Shyamnarayan Degree College, Mumbai, and an active tech enthusiast who loves building meaningful web and mobile applications.
 
 When I'm not writing code, you can find me leading community initiatives, exploring the outdoors, or gaming.
 
